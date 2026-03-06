@@ -1,8 +1,3 @@
-## C++气象数据中心
-
-
-
- 介绍系统，完成后再写
 
 ### Linux多线程
 
@@ -157,11 +152,10 @@ crtsurfdata2.cpp    完成 stcode.ini 数据写入crtsurfdata2.log 日志
 
 ##### may-12
 
-crtsurfdata3.cpp     完成  CrtSurfData()   模拟全国气象站观测数据
-
+crtsurfdata3.cpp     完成  CrtSurfData()
 - 研究时间函数
 
-crtsurfdata4.cpp  完成   CrtSurfFile()   将气象站点数据按分钟写入xsv文件
+crtsurfdata4.cpp  完成   CrtSurfFile()   写入xsv文件
 
 - 未完成写入格式  json，xml
 

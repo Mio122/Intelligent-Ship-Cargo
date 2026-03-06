@@ -1,0 +1,7 @@
+*~
+*.log
+idc1/log/
+idec1/psurfdata/
+*swp
+tools1/package/
+.vscode/
